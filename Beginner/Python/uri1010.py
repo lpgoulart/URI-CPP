@@ -1,3 +1,5 @@
+#Simple Calculate
+#Made by Leonardo Goulart
 valuesF = input().split(" ")
 valuesS = input().split(" ")
 

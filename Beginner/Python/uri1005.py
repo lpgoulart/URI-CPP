@@ -1,3 +1,5 @@
+#Average 1
+#Made by Leonardo Goulart
 var1 = float(input())
 var2 = float(input())
 

@@ -1,3 +1,5 @@
+#Fuel spend
+#Made by Leonardo Goulart
 time = int(input())
 distance = int(input())
 
