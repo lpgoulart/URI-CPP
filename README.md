@@ -1,4 +1,4 @@
-# URI Solutions in C++ and Python3
+# URI Solutions in C++
 
 Solutions algorithms for some of URI repository questions  
 
